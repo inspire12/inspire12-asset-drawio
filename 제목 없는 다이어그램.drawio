@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T09:44:49.185Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="XfRF7h8ShEhRynOftDRq" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:48:49.410Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="V3lOZb3b24ZjWlkk0eA0" version="20.5.1" type="github">
   <diagram id="VgOGGdtNEHgQYgJjuhsM" name="페이지-1">
     <mxGraphModel dx="1138" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="j1Fs-j_B62_rLR_3h5c7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#000000;" edge="1" parent="1" source="j1Fs-j_B62_rLR_3h5c7-65" target="j1Fs-j_B62_rLR_3h5c7-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j1Fs-j_B62_rLR_3h5c7-65" value="rabbitmq (message relay broker)" style="fillColor=#030303;strokeColor=#190033;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;shadow=1;" vertex="1" parent="1">
+        <mxCell id="j1Fs-j_B62_rLR_3h5c7-65" value="rabbitmq (message relay broker)" style="fillColor=#030303;strokeColor=#FCFCFC;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#FCFCFC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="400.79" y="575" width="290" height="155" as="geometry" />
         </mxCell>
         <mxCell id="j1Fs-j_B62_rLR_3h5c7-64" value="Generic group" style="fillColor=#050505;strokeColor=#190033;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;shadow=1;" vertex="1" parent="1">
